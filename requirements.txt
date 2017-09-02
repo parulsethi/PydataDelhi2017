@@ -1,0 +1,5 @@
+numpy
+pandas
+pyldavis
+nltk
+visdom
